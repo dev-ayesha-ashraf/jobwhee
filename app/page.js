@@ -1,4 +1,6 @@
 // pages/index.js
+// In app/layout.tsx or _app.js
+import './globals.css'
 import Header from './Components/Header';
 import Home from './Components/Home';
 import TopTalents from './Components/Talent';

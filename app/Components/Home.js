@@ -20,7 +20,7 @@ export default function Home() {
 
                         <div className="bg-white/4 backdrop-blur-lg p-1 rounded-[28px] w-[496px] h-[125px] relative mt-[15%]">
                             <p className="text-white font-poppins font-extrabold text-4xl leading-[61px] tracking-[0%] uppercase">
-                                WE'LL <span className="text-[#CBEC5E]">HANDLE</span> THAT
+                                {`WE'LL`} <span className="text-[#CBEC5E]">HANDLE</span> THAT
                             </p>
                             <button className="absolute mt-7 bg-[#CBEC5E] p-4 rounded-[28px] w-[222px] h-[51px] flex items-center justify-center text-[#18470D] font-poppins font-medium text-[16px] leading-[100%] tracking-[0%] text-center">
                                 Sign Up for contact
@@ -79,7 +79,7 @@ export default function Home() {
 
                     <div className="bg-[#546B868A] backdrop-blur-lg p-1 rounded-[28px] w-[299px] h-[107px] relative mt-8 lg:mt-[15%] p-4">
                         <p className="text-white font-poppins font-extrabold text-[20px] tracking-[0%] uppercase">
-                            WE'LL <span className="text-[#CBEC5E]">HANDLE</span> THAT
+                            {`WE'LL`} <span className="text-[#CBEC5E]">HANDLE</span> THAT
                         </p>
                         <button className="absolute mt-7 bg-[#CBEC5E] p-4 rounded-[28px] w-[222px] h-[51px] flex items-center justify-center text-[#18470D] font-poppins font-medium text-[16px] leading-[100%] tracking-[0%] text-center">
                             Sign Up for contact
